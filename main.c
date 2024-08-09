@@ -1,3 +1,12 @@
+/*
+
+DESCRIPTION
+	This program replace every occurence of the word for asterisks.
+ 
+EXAMPLE
+	word[] = "morning"
+    text[] = "I eat apples in the morning" --> text[] = "I eat apples in the afternoon"
+*/
 #include <stdio.h>
 #include "replace.c"
 
