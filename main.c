@@ -5,7 +5,7 @@ DESCRIPTION
  
 EXAMPLE
 	word[] = "morning"
-    text[] = "I eat apples in the morning" --> text[] = "I eat apples in the afternoon"
+    	text[] = "I eat apples in the morning" --> text[] = "I eat apples in the *******"
 */
 #include <stdio.h>
 #include "replace.c"
